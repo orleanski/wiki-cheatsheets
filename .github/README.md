@@ -1,10 +1,9 @@
-# [Original](https://github.com/wraybowling/wiki-cheatsheets/wiki)
+
 
 ## Devhints
 
 > TL;DR for developer documentation - a ridiculous collection of cheatsheets
 
-[
 <br>
 
 <p align='center'>
@@ -12,6 +11,8 @@
 </p>
 
 <br>
+
+### [Original](https://github.com/wraybowling/wiki-cheatsheets/wiki)
 
 ---
 
